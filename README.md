@@ -12,7 +12,3 @@ $ flask translate compile
 $ flask run
 * Running on http://127.0.0.1:5000/
 ```
-
-## For Chinese Readers of My Flask Book
-
-....
